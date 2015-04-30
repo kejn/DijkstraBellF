@@ -1,7 +1,9 @@
 # DijkstraBellF
 (QT, C++) implementation of Dijsktra &amp; Bellman-Ford algorithms
 
-https://github.com/kejn/DijkstraBellF
+Downloaded from https://github.com/kejn/DijkstraBellF
+
+How it works https://youtu.be/deMdA3rkxoc
 
 Written in 2014 by Kamil Niemczyk
 
