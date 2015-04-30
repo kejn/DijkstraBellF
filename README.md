@@ -3,7 +3,7 @@
 
  * Written in 2014 by Kamil Niemczyk
 
- * PL:
+PL:
  * ! Kod kopiować wraz z tym komentarzem !
  * W przypadku wprowadzenia zmian
  * dopisać się do listy autorów kodu.
@@ -11,7 +11,7 @@
  * Wyrażam zgodę na używanie programu oraz
  * jego kodu w celach dydaktycznych.
 
- * EN:
+EN:
  * ! Copy only with this comment !
  * In case of any changes add your nick/name
  * to authors list.
